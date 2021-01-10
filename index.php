@@ -32,18 +32,21 @@ $model = new Records();
 
   <title>Security Screen</title>
   <!-- Bootstrap -->
-  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- stylesheet -->
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
 </head>
 
 <body>
+	<div class="container">
+		hello
+	</div>
 
 
 	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
 	<script src="js/scripts.js"></script>
 	  
 </body>
